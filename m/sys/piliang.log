@@ -1,0 +1,146 @@
+2013-05-14 13:48:48 system a:4:{s:7:"part_id";s:1:"9";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:4:{i:0;s:4:"杂志";i:1;s:4:"微信";i:2;s:4:"手机";i:3;s:8:"百度商桥";}}s:4:"type";s:7:"part_id";}
+
+2013-05-14 13:57:24 admin a:4:{s:12:"character_id";s:2:"22";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:4:{i:0;s:4:"杂志";i:1;s:4:"微信";i:2;s:4:"手机";i:3;s:8:"百度商桥";}}s:4:"type";s:12:"character_id";}
+
+2013-05-14 14:34:31 admin a:4:{s:12:"character_id";s:2:"22";s:7:"op_type";s:6:"remove";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:4:"杂志";}}s:4:"type";s:12:"character_id";}
+
+2013-05-14 14:34:48 admin a:4:{s:12:"character_id";s:2:"45";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:2:{i:0;s:4:"微信";i:1;s:4:"手机";}}s:4:"type";s:12:"character_id";}
+
+2013-05-14 17:26:59 admin a:4:{s:12:"character_id";s:2:"51";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:4:"微信";}}s:4:"type";s:12:"character_id";}
+
+2013-05-14 17:29:40 admin a:4:{s:12:"character_id";s:2:"62";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:5:{i:0;s:3:"all";i:1;s:3:"web";i:2;s:3:"tel";i:3;s:4:"微信";i:4;s:4:"手机";}}s:4:"type";s:12:"character_id";}
+
+2013-05-14 17:40:40 admin a:4:{s:12:"character_id";s:2:"61";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:5:{i:0;s:3:"all";i:1;s:3:"web";i:2;s:3:"tel";i:3;s:4:"微信";i:4;s:4:"手机";}}s:4:"type";s:12:"character_id";}
+
+2013-05-14 17:41:20 admin a:4:{s:12:"character_id";s:2:"36";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:3:{i:0;s:3:"web";i:1;s:4:"微信";i:2;s:4:"手机";}}s:4:"type";s:12:"character_id";}
+
+2013-05-14 17:41:33 admin a:4:{s:12:"character_id";s:2:"23";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:5:{i:0;s:3:"all";i:1;s:3:"web";i:2;s:3:"tel";i:3;s:4:"微信";i:4;s:4:"手机";}}s:4:"type";s:12:"character_id";}
+
+2013-05-14 17:42:01 admin a:4:{s:12:"character_id";s:2:"16";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:6:{i:0;s:3:"all";i:1;s:3:"web";i:2;s:3:"tel";i:3;s:4:"杂志";i:4;s:4:"微信";i:5;s:4:"手机";}}s:4:"type";s:12:"character_id";}
+
+2013-05-14 17:42:25 admin a:4:{s:12:"character_id";s:2:"22";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:5:{i:0;s:3:"all";i:1;s:3:"web";i:2;s:3:"tel";i:3;s:4:"微信";i:4;s:4:"手机";}}s:4:"type";s:12:"character_id";}
+
+2013-05-14 18:26:23 admin a:4:{s:12:"character_id";s:2:"51";s:7:"op_type";s:6:"remove";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:4:"微信";}}s:4:"type";s:12:"character_id";}
+
+2013-05-15 09:56:03 admin a:4:{s:12:"character_id";s:2:"51";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:4:"微信";}}s:4:"type";s:12:"character_id";}
+
+2013-05-15 10:26:00 admin a:4:{s:12:"character_id";s:2:"26";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:3:{i:0;s:3:"all";i:1;s:3:"web";i:2;s:3:"tel";}}s:4:"type";s:12:"character_id";}
+
+2013-05-15 10:27:46 admin a:4:{s:12:"character_id";s:2:"22";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:11:{i:0;s:3:"all";i:1;s:3:"web";i:2;s:3:"tel";i:3;s:4:"微信";i:4;s:4:"手机";i:5;s:8:"莆田微信";i:6;s:8:"市场微信";i:7;s:8:"奕创微信";i:8;s:8:"项目微信";i:9;s:12:"项目手机推广";i:10;s:12:"独立手机推广";}}s:4:"type";s:12:"character_id";}
+
+2013-05-15 10:28:24 admin a:4:{s:12:"character_id";s:2:"37";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:11:{i:0;s:3:"all";i:1;s:3:"web";i:2;s:3:"tel";i:3;s:4:"微信";i:4;s:4:"手机";i:5;s:8:"莆田微信";i:6;s:8:"市场微信";i:7;s:8:"奕创微信";i:8;s:8:"项目微信";i:9;s:12:"项目手机推广";i:10;s:12:"独立手机推广";}}s:4:"type";s:12:"character_id";}
+
+2013-05-15 10:40:20 admin a:4:{s:12:"character_id";s:2:"45";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:6:{i:0;s:3:"web";i:1;s:3:"tel";i:2;s:4:"微信";i:3;s:4:"手机";i:4;s:8:"项目微信";i:5;s:12:"项目手机推广";}}s:4:"type";s:12:"character_id";}
+
+2013-05-16 17:42:35 admin a:4:{s:12:"character_id";s:2:"23";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:3:"web";}}s:4:"type";s:12:"character_id";}
+
+2013-05-16 17:42:43 admin a:4:{s:12:"character_id";s:1:"2";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:3:"web";}}s:4:"type";s:12:"character_id";}
+
+2013-05-17 10:42:34 admin a:4:{s:12:"character_id";s:2:"12";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:2:{i:0;s:3:"web";i:1;s:3:"tel";}}s:4:"type";s:12:"character_id";}
+
+2013-05-17 11:15:36 admin a:4:{s:12:"character_id";s:2:"12";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:3:{i:0;s:3:"web";i:1;s:3:"tel";i:2;s:4:"微信";}}s:4:"type";s:12:"character_id";}
+
+2013-05-17 11:19:16 admin a:4:{s:12:"character_id";s:2:"17";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:3:{i:0;s:3:"web";i:1;s:3:"tel";i:2;s:4:"微信";}}s:4:"type";s:12:"character_id";}
+
+2013-05-17 15:34:28 admin a:4:{s:12:"character_id";s:1:"2";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:3:"web";}}s:4:"type";s:12:"character_id";}
+
+2013-05-17 15:36:14 admin a:4:{s:12:"character_id";s:2:"17";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:2:{i:0;s:3:"web";i:1;s:3:"tel";}}s:4:"type";s:12:"character_id";}
+
+2013-05-17 15:36:24 admin a:4:{s:12:"character_id";s:2:"12";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:2:{i:0;s:3:"web";i:1;s:3:"tel";}}s:4:"type";s:12:"character_id";}
+
+2013-05-17 15:36:39 admin a:4:{s:12:"character_id";s:2:"23";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:3:"web";}}s:4:"type";s:12:"character_id";}
+
+2013-05-17 15:38:00 admin a:4:{s:12:"character_id";s:2:"24";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:3:{i:0;s:3:"all";i:1;s:3:"web";i:2;s:3:"tel";}}s:4:"type";s:12:"character_id";}
+
+2013-05-17 15:38:17 admin a:4:{s:12:"character_id";s:2:"26";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:3:{i:0;s:3:"all";i:1;s:3:"web";i:2;s:3:"tel";}}s:4:"type";s:12:"character_id";}
+
+2013-05-17 15:38:34 admin a:4:{s:12:"character_id";s:2:"61";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:5:{i:0;s:3:"all";i:1;s:3:"web";i:2;s:3:"tel";i:3;s:4:"微信";i:4;s:4:"手机";}}s:4:"type";s:12:"character_id";}
+
+2013-05-17 15:39:34 admin a:4:{s:12:"character_id";s:2:"22";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:10:{i:0;s:3:"all";i:1;s:3:"web";i:2;s:3:"tel";i:3;s:8:"莆田微信";i:4;s:8:"市场微信";i:5;s:8:"奕创微信";i:6;s:8:"项目微信";i:7;s:12:"项目手机推广";i:8;s:12:"独立手机推广";i:9;s:8:"谷歌微信";}}s:4:"type";s:12:"character_id";}
+
+2013-05-17 15:40:14 admin a:4:{s:12:"character_id";s:2:"37";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:10:{i:0;s:3:"all";i:1;s:3:"web";i:2;s:3:"tel";i:3;s:8:"莆田微信";i:4;s:8:"市场微信";i:5;s:8:"奕创微信";i:6;s:8:"项目微信";i:7;s:12:"项目手机推广";i:8;s:12:"独立手机推广";i:9;s:8:"谷歌微信";}}s:4:"type";s:12:"character_id";}
+
+2013-05-29 16:23:15 admin a:4:{s:12:"character_id";s:2:"37";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:14:{i:0;s:3:"all";i:1;s:3:"web";i:2;s:3:"tel";i:3;s:4:"杂志";i:4;s:4:"微信";i:5;s:4:"手机";i:6;s:8:"莆田微信";i:7;s:8:"市场微信";i:8;s:8:"奕创微信";i:9;s:8:"项目微信";i:10;s:12:"项目手机推广";i:11;s:12:"独立手机推广";i:12;s:8:"谷歌微信";i:13;s:6:"企划部";}}s:4:"type";s:12:"character_id";}
+
+2013-05-29 16:24:46 admin a:4:{s:12:"character_id";s:2:"22";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:13:{i:0;s:3:"all";i:1;s:3:"web";i:2;s:3:"tel";i:3;s:4:"微信";i:4;s:4:"手机";i:5;s:8:"莆田微信";i:6;s:8:"市场微信";i:7;s:8:"奕创微信";i:8;s:8:"项目微信";i:9;s:12:"项目手机推广";i:10;s:12:"独立手机推广";i:11;s:8:"谷歌微信";i:12;s:6:"企划部";}}s:4:"type";s:12:"character_id";}
+
+2013-05-30 09:30:33 admin a:4:{s:12:"character_id";s:2:"46";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:2:{i:0;s:3:"web";i:1;s:4:"手机";}}s:4:"type";s:12:"character_id";}
+
+2013-07-10 11:27:13 admin a:4:{s:12:"character_id";s:2:"28";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:4:{i:0;s:3:"all";i:1;s:3:"web";i:2;s:3:"tel";i:3;s:4:"手机";}}s:4:"type";s:12:"character_id";}
+
+2013-10-24 11:46:23 admin a:4:{s:12:"character_id";s:2:"37";s:7:"op_type";s:3:"add";s:3:"set";a:3:{s:12:"character_id";s:0:"";s:10:"data_power";a:10:{i:0;s:3:"web";i:1;s:3:"tel";i:2;s:4:"微信";i:3;s:4:"手机";i:4;s:8:"莆田微信";i:5;s:8:"奕创微信";i:6;s:8:"项目微信";i:7;s:12:"项目手机推广";i:8;s:12:"独立手机推广";i:9;s:6:"企划部";}s:9:"show_talk";s:2:"on";}s:4:"type";s:12:"character_id";}
+
+2013-10-24 11:50:46 admin a:4:{s:12:"character_id";s:2:"22";s:7:"op_type";s:6:"remove";s:3:"set";a:3:{s:12:"character_id";s:0:"";s:10:"data_power";a:4:{i:0;s:3:"web";i:1;s:3:"tel";i:2;s:4:"微信";i:3;s:4:"手机";}s:9:"show_talk";s:2:"on";}s:4:"type";s:12:"character_id";}
+
+2013-10-24 11:51:23 admin a:4:{s:12:"character_id";s:2:"22";s:7:"op_type";s:3:"add";s:3:"set";a:3:{s:12:"character_id";s:0:"";s:10:"data_power";a:4:{i:0;s:3:"web";i:1;s:3:"tel";i:2;s:4:"微信";i:3;s:4:"手机";}s:9:"show_talk";s:2:"on";}s:4:"type";s:12:"character_id";}
+
+2013-10-24 11:51:43 admin a:4:{s:12:"character_id";s:2:"22";s:7:"op_type";s:6:"remove";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:3:"all";}}s:4:"type";s:12:"character_id";}
+
+2013-10-24 13:24:52 admin a:4:{s:12:"character_id";s:1:"2";s:7:"op_type";s:6:"remove";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:3:"all";}}s:4:"type";s:12:"character_id";}
+
+2013-10-24 15:30:49 admin a:4:{s:12:"character_id";s:2:"45";s:7:"op_type";s:6:"remove";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:3:"all";}}s:4:"type";s:12:"character_id";}
+
+2013-11-08 17:15:25 system a:4:{s:12:"character_id";s:2:"60";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:7:"worklog";a:5:{i:0;s:10:"zixun_view";i:1;s:12:"zhixing_view";i:2;s:12:"zhuguan_view";i:3;s:11:"zhuren_view";i:4;s:11:"zhuren_edit";}}s:4:"type";s:12:"character_id";}
+
+2013-11-08 17:19:31 admin a:4:{s:12:"character_id";s:2:"45";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:7:"worklog";a:4:{i:0;s:10:"zixun_view";i:1;s:12:"zhixing_view";i:2;s:12:"zhixing_edit";i:3;s:12:"zhuguan_view";}}s:4:"type";s:12:"character_id";}
+
+2013-11-08 17:19:48 admin a:4:{s:12:"character_id";s:2:"22";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:7:"worklog";a:4:{i:0;s:10:"zixun_view";i:1;s:12:"zhixing_view";i:2;s:12:"zhuguan_view";i:3;s:12:"zhuguan_edit";}}s:4:"type";s:12:"character_id";}
+
+2013-11-08 17:20:01 admin a:4:{s:12:"character_id";s:2:"61";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:7:"worklog";a:5:{i:0;s:10:"zixun_view";i:1;s:10:"zixun_edit";i:2;s:12:"zhixing_view";i:3;s:12:"zhuguan_view";i:4;s:11:"zhuren_view";}}s:4:"type";s:12:"character_id";}
+
+2013-11-08 17:20:15 admin a:4:{s:12:"character_id";s:2:"37";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:7:"worklog";a:5:{i:0;s:10:"zixun_view";i:1;s:12:"zhixing_view";i:2;s:12:"zhuguan_view";i:3;s:11:"zhuren_view";i:4;s:11:"zhuren_edit";}}s:4:"type";s:12:"character_id";}
+
+2013-12-31 09:25:11 admin a:4:{s:12:"character_id";s:2:"61";s:7:"op_type";s:6:"remove";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:3:"all";}}s:4:"type";s:12:"character_id";}
+
+2013-12-31 10:05:07 admin a:4:{s:12:"character_id";s:2:"61";s:7:"op_type";s:6:"remove";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:3:"all";}}s:4:"type";s:12:"character_id";}
+
+2013-12-31 10:05:21 admin a:4:{s:12:"character_id";s:1:"2";s:7:"op_type";s:6:"remove";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:2:{i:0;s:3:"all";i:1;s:3:"tel";}}s:4:"type";s:12:"character_id";}
+
+2013-12-31 10:05:34 admin a:4:{s:12:"character_id";s:2:"24";s:7:"op_type";s:6:"remove";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:3:"all";}}s:4:"type";s:12:"character_id";}
+
+2013-12-31 10:05:51 admin a:4:{s:12:"character_id";s:2:"61";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:6:"企划部";}}s:4:"type";s:12:"character_id";}
+
+2013-12-31 10:07:54 admin a:4:{s:12:"character_id";s:2:"62";s:7:"op_type";s:6:"remove";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:3:"all";}}s:4:"type";s:12:"character_id";}
+
+2013-12-31 10:08:05 admin a:4:{s:12:"character_id";s:2:"62";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:6:"企划部";}}s:4:"type";s:12:"character_id";}
+
+2013-12-31 10:15:59 admin a:4:{s:12:"character_id";s:2:"22";s:7:"op_type";s:6:"remove";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:3:"all";}}s:4:"type";s:12:"character_id";}
+
+2013-12-31 10:20:34 admin a:4:{s:12:"character_id";s:2:"41";s:7:"op_type";s:6:"remove";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:3:"all";}}s:4:"type";s:12:"character_id";}
+
+2013-12-31 10:20:53 admin a:4:{s:12:"character_id";s:2:"12";s:7:"op_type";s:6:"remove";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:3:"all";}}s:4:"type";s:12:"character_id";}
+
+2013-12-31 10:21:16 admin a:4:{s:12:"character_id";s:2:"17";s:7:"op_type";s:6:"remove";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:3:"all";}}s:4:"type";s:12:"character_id";}
+
+2013-12-31 10:21:25 admin a:4:{s:12:"character_id";s:2:"12";s:7:"op_type";s:6:"remove";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:3:"all";}}s:4:"type";s:12:"character_id";}
+
+2013-12-31 10:35:00 admin a:4:{s:12:"character_id";s:1:"2";s:7:"op_type";s:6:"remove";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:2:{i:0;s:3:"all";i:1;s:3:"tel";}}s:4:"type";s:12:"character_id";}
+
+2013-12-31 10:36:01 admin a:4:{s:12:"character_id";s:2:"23";s:7:"op_type";s:6:"remove";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:2:{i:0;s:3:"all";i:1;s:3:"tel";}}s:4:"type";s:12:"character_id";}
+
+2013-12-31 10:36:20 admin a:4:{s:12:"character_id";s:2:"60";s:7:"op_type";s:6:"remove";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:2:{i:0;s:3:"all";i:1;s:3:"tel";}}s:4:"type";s:12:"character_id";}
+
+2013-12-31 10:36:49 admin a:4:{s:12:"character_id";s:2:"24";s:7:"op_type";s:6:"remove";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:2:{i:0;s:3:"all";i:1;s:3:"tel";}}s:4:"type";s:12:"character_id";}
+
+2013-12-31 10:37:14 admin a:4:{s:12:"character_id";s:2:"34";s:7:"op_type";s:6:"remove";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:3:"all";}}s:4:"type";s:12:"character_id";}
+
+2013-12-31 10:37:32 admin a:4:{s:12:"character_id";s:2:"28";s:7:"op_type";s:6:"remove";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:3:"all";}}s:4:"type";s:12:"character_id";}
+
+2013-12-31 10:37:58 admin a:4:{s:12:"character_id";s:2:"61";s:7:"op_type";s:6:"remove";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:3:"tel";}}s:4:"type";s:12:"character_id";}
+
+2013-12-31 10:38:11 admin a:4:{s:12:"character_id";s:2:"62";s:7:"op_type";s:6:"remove";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:3:"tel";}}s:4:"type";s:12:"character_id";}
+
+2014-01-02 09:48:24 admin a:4:{s:12:"character_id";s:2:"23";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:3:"all";}}s:4:"type";s:12:"character_id";}
+
+2014-01-02 09:48:34 admin a:4:{s:12:"character_id";s:2:"61";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:3:"all";}}s:4:"type";s:12:"character_id";}
+
+2014-01-02 09:48:42 admin a:4:{s:12:"character_id";s:2:"62";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:10:"data_power";a:1:{i:0;s:3:"all";}}s:4:"type";s:12:"character_id";}
+
+2014-01-04 09:56:57 admin a:4:{s:12:"character_id";s:2:"61";s:7:"op_type";s:6:"remove";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:13:"guahao_config";a:2:{i:0;s:11:"patient_add";i:1;s:12:"patient_edit";}}s:4:"type";s:12:"character_id";}
+
+2014-01-04 09:57:04 admin a:4:{s:12:"character_id";s:2:"62";s:7:"op_type";s:6:"remove";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:13:"guahao_config";a:2:{i:0;s:11:"patient_add";i:1;s:12:"patient_edit";}}s:4:"type";s:12:"character_id";}
+
+2014-01-07 09:40:59 admin a:4:{s:12:"character_id";s:2:"61";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:13:"guahao_config";a:1:{i:0;s:12:"patient_edit";}}s:4:"type";s:12:"character_id";}
+
+2014-01-07 09:41:08 admin a:4:{s:12:"character_id";s:2:"62";s:7:"op_type";s:3:"add";s:3:"set";a:2:{s:12:"character_id";s:0:"";s:13:"guahao_config";a:1:{i:0;s:12:"patient_edit";}}s:4:"type";s:12:"character_id";}
+

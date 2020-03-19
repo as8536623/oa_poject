@@ -1,0 +1,14 @@
+结果都是json格式 (接口网址另行通知)
+
+获取医院科室:
+	/api/dict_hospital.php
+
+
+获取疾病类型  hid=医院ID （到处都要用的）
+	/api/dict_disease.php?hid=xxx
+
+
+媒体来源
+	/api/dict_media.php?hid=xxx
+
+

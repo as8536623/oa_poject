@@ -1,0 +1,242 @@
+2014-03-18 17:24:26 [dict_hospital.php] 116.236.248.246 
+2014-03-18 17:24:44 [get_patient_status.php] 116.236.248.246 hid=46&pid=19917
+2014-03-21 09:02:58 [dict_hospital.php] 180.175.7.61 
+2014-03-21 10:49:53 [add_patient.php] 180.175.7.61 
+2014-03-21 10:50:04 [dict_hospital.php] 180.175.7.61 
+2014-03-21 12:55:26 [dict_hospital.php] 180.175.7.61 
+2014-03-21 13:02:38 [dict_hospital.php] 180.175.7.61 
+2014-03-21 13:04:09 [dict_hospital.php] 180.175.7.61 
+2014-03-21 13:04:10 [dict_hospital.php] 180.175.7.61 
+2014-03-21 13:04:10 [dict_hospital.php] 180.175.7.61 
+2014-03-21 13:04:11 [dict_hospital.php] 180.175.7.61 
+2014-03-21 13:04:12 [dict_hospital.php] 180.175.7.61 
+2014-03-21 13:04:28 [dict_hospital.php] 180.175.7.61 
+2014-03-21 13:04:29 [dict_hospital.php] 180.175.7.61 
+2014-03-21 13:04:55 [dict_hospital.php] 180.175.7.61 
+2014-03-21 13:06:06 [dict_hospital.php] 180.175.7.61 
+2014-03-21 13:06:12 [dict_hospital.php] 180.175.7.61 
+2014-03-21 13:06:29 [dict_hospital.php] 180.175.7.61 
+2014-03-21 13:06:32 [dict_hospital.php] 180.175.7.61 
+2014-03-21 13:06:34 [dict_hospital.php] 180.175.7.61 
+2014-03-21 13:07:34 [dict_hospital.php] 180.175.7.61 
+2014-03-21 13:08:03 [dict_hospital.php] 180.175.7.61 
+2014-03-21 13:13:05 [dict_hospital.php] 180.175.7.61 
+2014-03-21 13:15:35 [dict_hospital.php] 180.175.7.61 
+2014-03-21 13:24:19 [dict_hospital.php] 180.175.7.61 
+2014-03-21 13:24:31 [dict_hospital.php] 180.175.7.61 
+2014-03-21 13:24:54 [dict_hospital.php] 180.175.7.61 
+2014-03-21 13:25:19 [dict_hospital.php] 180.175.7.61 
+2014-03-21 13:25:47 [dict_hospital.php] 180.175.7.61 
+2014-03-21 13:26:16 [dict_hospital.php] 180.175.7.61 
+2014-03-21 13:52:04 [dict_hospital.php] 180.175.7.61 
+2014-03-21 15:00:34 [dict_hospital.php] 180.175.7.61 
+2014-03-21 15:01:38 [dict_hospital.php] 180.175.7.61 
+2014-03-21 15:17:08 [dict_hospital.php] 180.175.7.61 
+2014-03-21 16:11:03 [dict_hospital.php] 180.175.7.61 
+2014-03-26 09:02:11 [dict_hospital.php] 180.175.7.61 
+2014-03-26 10:07:15 [add_patient.php] 180.175.7.61 
+2014-03-26 10:07:24 [add_patient.php] 180.175.7.61 
+2014-03-26 10:08:57 [add_patient.php] 180.175.7.61 
+2014-03-26 10:11:48 [add_patient.php] 180.175.7.61 
+2014-03-26 10:12:19 [add_patient.php] 180.175.7.61 
+2014-03-26 11:58:26 [dict_hospital.php] 180.175.7.61 
+2014-03-26 12:01:22 [dict_hospital.php] 180.175.7.61 
+2014-03-26 12:49:21 [dict_hospital.php] 180.175.7.61 
+2014-03-26 12:56:34 [add_patient.php] 180.175.7.61 
+2014-03-26 12:56:46 [add_patient.php] 180.175.7.61 
+2014-03-26 12:57:30 [add_patient.php] 180.175.7.61 
+2014-03-26 13:05:12 [dict_hospital.php] 180.175.7.61 
+2014-03-26 13:06:03 [add_patient.php] 180.175.7.61 
+2014-03-26 13:06:21 [add_patient.php] 180.175.7.61 
+2014-03-26 13:07:40 [add_patient.php] 180.175.7.61 
+2014-03-26 13:17:09 [add_patient.php] 116.236.248.246 
+POST=a:14:{s:11:"hospital_id";s:3:"293";s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"25";s:3:"tel";s:11:"13888889999";s:2:"qq";s:6:"123456";s:7:"content";s:20:"咨询腰椎病怎么能治好";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:4:"网络";s:12:"zhuanjia_num";s:3:"123";s:8:"is_local";s:1:"1";s:4:"area";s:0:"";s:10:"order_date";s:10:"2014-04-10";s:4:"memo";s:8:"备注内容";}
+2014-03-26 13:17:39 [add_patient.php] 116.236.248.246 
+POST=a:14:{s:11:"hospital_id";s:3:"293";s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"25";s:3:"tel";s:11:"13888889998";s:2:"qq";s:6:"123456";s:7:"content";s:20:"咨询腰椎病怎么能治好";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:4:"网络";s:12:"zhuanjia_num";s:3:"123";s:8:"is_local";s:1:"1";s:4:"area";s:0:"";s:10:"order_date";s:10:"2014-04-10";s:4:"memo";s:8:"备注内容";}
+2014-03-26 13:18:08 [add_patient.php] 116.236.248.246 
+POST=a:14:{s:11:"hospital_id";s:3:"293";s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"25";s:3:"tel";s:11:"13888889998";s:2:"qq";s:6:"123456";s:7:"content";s:20:"咨询腰椎病怎么能治好";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:4:"网络";s:12:"zhuanjia_num";s:3:"123";s:8:"is_local";s:1:"1";s:4:"area";s:0:"";s:10:"order_date";s:10:"2014-04-10";s:4:"memo";s:8:"备注内容";}
+2014-03-26 13:18:14 [add_patient.php] 116.236.248.246 
+POST=a:14:{s:11:"hospital_id";s:3:"293";s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"25";s:3:"tel";s:11:"13888889997";s:2:"qq";s:6:"123456";s:7:"content";s:20:"咨询腰椎病怎么能治好";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:4:"网络";s:12:"zhuanjia_num";s:3:"123";s:8:"is_local";s:1:"1";s:4:"area";s:0:"";s:10:"order_date";s:10:"2014-04-10";s:4:"memo";s:8:"备注内容";}
+2014-03-26 13:18:40 [add_patient.php] 116.236.248.246 
+POST=a:14:{s:11:"hospital_id";s:3:"293";s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"25";s:3:"tel";s:11:"13888889997";s:2:"qq";s:6:"123456";s:7:"content";s:20:"咨询腰椎病怎么能治好";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:4:"网络";s:12:"zhuanjia_num";s:3:"123";s:8:"is_local";s:1:"1";s:4:"area";s:0:"";s:10:"order_date";s:10:"2014-04-10";s:4:"memo";s:8:"备注内容";}
+2014-03-26 13:21:26 [add_patient.php] 116.236.248.246 
+POST=a:14:{s:11:"hospital_id";s:3:"293";s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"25";s:3:"tel";s:11:"13888889997";s:2:"qq";s:6:"123456";s:7:"content";s:20:"咨询腰椎病怎么能治好";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:4:"网络";s:12:"zhuanjia_num";s:3:"123";s:8:"is_local";s:1:"1";s:4:"area";s:0:"";s:10:"order_date";s:10:"2014-04-10";s:4:"memo";s:8:"备注内容";}
+2014-03-26 13:31:04 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"李四";s:3:"sex";s:2:"男";s:3:"age";s:2:"34";s:3:"tel";s:11:"13534343246";s:2:"qq";s:8:"54342453";s:7:"content";s:10:"腰间盘突出";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:4:"网络";s:12:"zhuanjia_num";s:3:"123";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"1395849600";s:4:"memo";s:14:"个的说法发的是";s:11:"hospital_id";s:3:"293";}
+2014-03-26 13:31:28 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"李四";s:3:"sex";s:2:"男";s:3:"age";s:2:"34";s:3:"tel";s:11:"13534343246";s:2:"qq";s:8:"54342453";s:7:"content";s:10:"腰间盘突出";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:4:"网络";s:12:"zhuanjia_num";s:3:"123";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"1395849600";s:4:"memo";s:14:"个的说法发的是";s:11:"hospital_id";s:3:"293";}
+2014-03-26 13:31:52 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"李四";s:3:"sex";s:2:"男";s:3:"age";s:2:"34";s:3:"tel";s:11:"13534343246";s:2:"qq";s:8:"54342453";s:7:"content";s:10:"腰间盘突出";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:4:"网络";s:12:"zhuanjia_num";s:3:"123";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"1395849600";s:4:"memo";s:14:"个的说法发的是";s:11:"hospital_id";s:3:"293";}
+2014-03-26 13:31:57 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"李四";s:3:"sex";s:2:"男";s:3:"age";s:2:"34";s:3:"tel";s:11:"13534343246";s:2:"qq";s:8:"54342453";s:7:"content";s:10:"腰间盘突出";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:4:"网络";s:12:"zhuanjia_num";s:3:"123";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"1395849600";s:4:"memo";s:14:"个的说法发的是";s:11:"hospital_id";s:3:"293";}
+2014-03-26 13:35:17 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"李四";s:3:"sex";s:2:"男";s:3:"age";s:2:"34";s:3:"tel";s:11:"13534343246";s:2:"qq";s:8:"54342453";s:7:"content";s:10:"腰间盘突出";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:4:"网络";s:12:"zhuanjia_num";s:3:"123";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"1395849600";s:4:"memo";s:14:"个的说法发的是";s:11:"hospital_id";s:3:"293";}
+2014-03-27 08:54:46 [dict_hospital.php] 180.175.7.61 
+2014-03-27 08:56:26 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"李四";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343246";s:2:"qq";s:8:"35432453";s:7:"content";s:10:"腰间盘突出";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:4:"网络";s:12:"zhuanjia_num";s:3:"123";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"1395849600";s:4:"memo";s:18:"不功夫大师韩国人的";s:11:"hospital_id";s:3:"293";}
+2014-03-27 08:58:44 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"李四";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343246";s:2:"qq";s:8:"35432453";s:7:"content";s:10:"腰间盘突出";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:4:"网络";s:12:"zhuanjia_num";s:3:"123";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-27";s:4:"memo";s:18:"不功夫大师韩国人的";s:11:"hospital_id";s:3:"293";}
+2014-03-27 09:31:05 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"李四";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343246";s:2:"qq";s:8:"35432453";s:7:"content";s:10:"腰间盘突出";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:4:"网络";s:12:"zhuanjia_num";s:3:"123";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-27";s:4:"memo";s:18:"不功夫大师韩国人的";s:11:"hospital_id";s:3:"293";}
+2014-03-27 09:31:28 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"李四";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343246";s:2:"qq";s:8:"35432453";s:7:"content";s:10:"腰间盘突出";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:4:"网络";s:12:"zhuanjia_num";s:3:"123";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-27";s:4:"memo";s:18:"不功夫大师韩国人的";s:11:"hospital_id";s:3:"293";}
+2014-03-27 09:31:37 [dict_hospital.php] 180.175.7.61 
+2014-03-27 09:33:36 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"李四";s:3:"sex";s:2:"男";s:3:"age";s:2:"34";s:3:"tel";s:11:"13534343245";s:2:"qq";s:8:"43424535";s:7:"content";s:10:"腰间盘突出";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:4:"网络";s:12:"zhuanjia_num";s:3:"123";s:8:"is_local";s:1:"1";s:4:"area";s:4:"北京";s:10:"order_date";s:10:"2014-03-28";s:4:"memo";s:8:"范德萨吃";s:11:"hospital_id";s:3:"293";}
+2014-03-27 09:34:09 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"李四";s:3:"sex";s:2:"男";s:3:"age";s:2:"34";s:3:"tel";s:11:"13534343245";s:2:"qq";s:8:"43424535";s:7:"content";s:10:"腰间盘突出";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:4:"网络";s:12:"zhuanjia_num";s:3:"123";s:8:"is_local";s:1:"1";s:4:"area";s:4:"北京";s:10:"order_date";s:10:"2014-03-28";s:4:"memo";s:8:"范德萨吃";s:11:"hospital_id";s:3:"293";}
+2014-03-27 10:09:42 [dict_hospital.php] 180.175.7.61 
+2014-03-27 11:12:39 [dict_hospital.php] 180.175.7.61 
+2014-03-27 13:42:35 [dict_hospital.php] 180.175.7.61 
+2014-03-27 13:43:08 [dict_hospital.php] 180.175.7.61 
+2014-03-27 13:46:14 [dict_hospital.php] 180.175.7.61 
+2014-03-27 13:53:00 [dict_hospital.php] 180.175.7.61 
+2014-03-27 13:54:43 [dict_hospital.php] 180.175.7.61 
+2014-03-27 13:55:22 [dict_hospital.php] 180.175.7.61 
+2014-03-27 16:07:10 [dict_hospital.php] 180.175.7.61 
+2014-03-28 10:17:47 [get_patient_status.php] 180.175.7.61 hid=293&pid=2
+2014-03-28 10:18:20 [get_patient_status.php] 180.175.7.61 hid=293&pid=3
+2014-03-28 15:30:20 [dict_hospital.php] 180.175.7.61 
+2014-03-28 17:18:42 [dict_hospital.php] 180.175.7.61 
+2014-03-28 17:19:54 [dict_hospital.php] 180.175.7.61 
+2014-03-28 17:21:54 [dict_hospital.php] 180.175.7.61 
+2014-03-28 17:22:30 [dict_hospital.php] 180.175.7.61 
+2014-03-29 11:34:47 [get_patient_status.php] 116.236.248.246 hid=46&pid=1
+
+2014-03-29 11:35:16 [get_patient_status.php] 116.236.248.246 hid=46&pid=1
+
+2014-03-29 11:35:44 [add_patient.php] 116.236.248.246 
+POST=a:14:{s:11:"hospital_id";s:3:"293";s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"25";s:3:"tel";s:11:"13888889999";s:2:"qq";s:6:"123456";s:7:"content";s:20:"咨询腰椎病怎么能治好";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:4:"网络";s:12:"zhuanjia_num";s:3:"123";s:8:"is_local";s:1:"1";s:4:"area";s:0:"";s:10:"order_date";s:10:"2014-04-10";s:4:"memo";s:8:"备注内容";}
+
+2014-03-29 11:35:48 [add_patient.php] 116.236.248.246 
+POST=a:14:{s:11:"hospital_id";s:3:"293";s:4:"name";s:7:"张三555";s:3:"sex";s:2:"男";s:3:"age";s:2:"25";s:3:"tel";s:11:"13888889999";s:2:"qq";s:6:"123456";s:7:"content";s:20:"咨询腰椎病怎么能治好";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:4:"网络";s:12:"zhuanjia_num";s:3:"123";s:8:"is_local";s:1:"1";s:4:"area";s:0:"";s:10:"order_date";s:10:"2014-04-10";s:4:"memo";s:8:"备注内容";}
+
+2014-03-29 13:49:01 [dict_hospital.php] 180.175.7.61 
+
+2014-03-29 13:49:03 [dict_hospital.php] 180.175.7.61 
+
+2014-03-29 13:49:13 [dict_hospital.php] 180.175.7.61 
+
+2014-03-29 13:49:24 [dict_hospital.php] 180.175.7.61 
+
+2014-03-29 14:33:44 [dict_hospital.php] 101.71.74.235 
+
+2014-03-29 14:39:01 [dict_hospital.php] 101.71.74.235 
+
+2014-03-29 14:49:55 [add_patient.php] 101.71.74.235 
+POST=a:14:{s:4:"name";s:6:"王小三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"15800522006";s:2:"qq";s:9:"303636541";s:7:"content";s:8:"包皮过长";s:10:"disease_id";s:5:"23091";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:5:"YC007";s:8:"is_local";s:1:"1";s:4:"area";s:4:"北京";s:10:"order_date";s:10:"2014-03-31";s:4:"memo";s:4:"没有";s:11:"hospital_id";s:3:"270";}
+
+2014-03-29 14:50:21 [add_patient.php] 101.71.74.235 
+POST=a:14:{s:4:"name";s:6:"王小三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"15800522006";s:2:"qq";s:9:"303636541";s:7:"content";s:8:"包皮过长";s:10:"disease_id";s:5:"23091";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:5:"YC007";s:8:"is_local";s:1:"1";s:4:"area";s:4:"北京";s:10:"order_date";s:10:"2014-03-31";s:4:"memo";s:4:"没有";s:11:"hospital_id";s:3:"270";}
+
+2014-03-29 14:50:39 [add_patient.php] 101.71.74.235 
+POST=a:14:{s:4:"name";s:5:"gfdgf";s:3:"sex";s:2:"女";s:3:"age";s:1:"0";s:3:"tel";s:9:"877567564";s:2:"qq";s:1:"0";s:7:"content";s:0:"";s:10:"disease_id";s:1:"0";s:10:"media_from";s:0:"";s:12:"zhuanjia_num";s:0:"";s:8:"is_local";s:1:"0";s:4:"area";s:0:"";s:10:"order_date";s:10:"2014-03-10";s:4:"memo";s:0:"";s:11:"hospital_id";s:1:"0";}
+
+2014-03-29 14:50:50 [get_patient_status.php] 101.71.74.235 hid=0&pid=0
+
+2014-03-29 15:04:08 [add_patient.php] 101.71.74.235 
+POST=a:14:{s:4:"name";s:6:"王小三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"15800522006";s:2:"qq";s:9:"303636541";s:7:"content";s:8:"包皮过长";s:10:"disease_id";s:5:"23091";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:5:"YC007";s:8:"is_local";s:1:"1";s:4:"area";s:4:"北京";s:10:"order_date";s:10:"2014-03-31";s:4:"memo";s:4:"没有";s:11:"hospital_id";s:3:"270";}
+
+2014-03-29 15:04:13 [add_patient.php] 101.71.74.235 
+POST=a:14:{s:4:"name";s:6:"王小三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"15800522006";s:2:"qq";s:9:"303636541";s:7:"content";s:8:"包皮过长";s:10:"disease_id";s:5:"23091";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:5:"YC007";s:8:"is_local";s:1:"1";s:4:"area";s:4:"北京";s:10:"order_date";s:10:"2014-03-31";s:4:"memo";s:4:"没有";s:11:"hospital_id";s:3:"270";}
+
+2014-03-29 15:05:58 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:8:"YC000003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:06:59 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:8:"YC000003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:07:13 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:8:"YC000003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:07:25 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:8:"YC000003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:08:47 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:8:"YC000003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:08:49 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:8:"YC000003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:09:02 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:8:"YC000003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:09:07 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:8:"YC000003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:09:42 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:5:"YC003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:09:47 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:5:"YC003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:10:47 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:5:"YC003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:10:49 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:5:"YC003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:10:49 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:5:"YC003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:10:50 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:5:"YC003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:10:58 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:5:"YC003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:13:03 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:5:"gfdgf";s:3:"sex";s:2:"女";s:3:"age";s:1:"0";s:3:"tel";s:9:"877567564";s:2:"qq";s:1:"0";s:7:"content";s:0:"";s:10:"disease_id";s:1:"0";s:10:"media_from";s:0:"";s:12:"zhuanjia_num";s:0:"";s:8:"is_local";s:1:"0";s:4:"area";s:0:"";s:10:"order_date";s:10:"2014-03-10";s:4:"memo";s:0:"";s:11:"hospital_id";s:1:"0";}
+
+2014-03-29 15:13:37 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:5:"gfdgf";s:3:"sex";s:2:"女";s:3:"age";s:1:"0";s:3:"tel";s:9:"877567564";s:2:"qq";s:1:"0";s:7:"content";s:0:"";s:10:"disease_id";s:1:"0";s:10:"media_from";s:0:"";s:12:"zhuanjia_num";s:0:"";s:8:"is_local";s:1:"0";s:4:"area";s:0:"";s:10:"order_date";s:10:"2014-03-10";s:4:"memo";s:0:"";s:11:"hospital_id";s:1:"0";}
+
+2014-03-29 15:13:53 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:5:"YC003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:22:33 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:5:"YC003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:27:48 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:5:"YC003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:29:46 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:5:"YC003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:30:42 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:5:"YC003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:33:22 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:5:"YC003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:44:30 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:5:"YC003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:45:00 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:5:"YC003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:45:55 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:5:"YC003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:46:51 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:5:"YC003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:47:32 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:5:"YC003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:47:53 [add_patient.php] 180.175.7.61 
+POST=a:14:{s:4:"name";s:4:"张三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"13534343248";s:2:"qq";s:8:"43424539";s:7:"content";s:6:"肩周炎";s:10:"disease_id";s:5:"23343";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:5:"YC003";s:8:"is_local";s:1:"1";s:4:"area";s:4:"上海";s:10:"order_date";s:10:"2014-03-29";s:4:"memo";s:8:"规划法师";s:11:"hospital_id";s:3:"293";}
+
+2014-03-29 15:49:31 [add_patient.php] 101.71.74.235 
+POST=a:14:{s:4:"name";s:6:"王小三";s:3:"sex";s:2:"男";s:3:"age";s:2:"23";s:3:"tel";s:11:"15800522006";s:2:"qq";s:9:"303636541";s:7:"content";s:8:"包皮过长";s:10:"disease_id";s:5:"23091";s:10:"media_from";s:8:"奕创微信";s:12:"zhuanjia_num";s:5:"YC007";s:8:"is_local";s:1:"1";s:4:"area";s:4:"北京";s:10:"order_date";s:10:"2014-03-31";s:4:"memo";s:4:"没有";s:11:"hospital_id";s:3:"270";}
+
+2014-03-29 15:54:36 [get_patient_status.php] 180.175.7.61 hid=0&pid=0
+
+2014-03-29 16:04:05 [get_patient_status.php] 180.175.7.61 hid=0&pid=0
+
+2014-03-29 16:06:07 [get_patient_status.php] 180.175.7.61 hid=0&pid=0
+
+2014-03-29 16:06:41 [get_patient_status.php] 180.175.7.61 hid=0&pid=0
+
+2014-03-29 16:08:14 [get_patient_status.php] 180.175.7.61 hid=0&pid=0
+

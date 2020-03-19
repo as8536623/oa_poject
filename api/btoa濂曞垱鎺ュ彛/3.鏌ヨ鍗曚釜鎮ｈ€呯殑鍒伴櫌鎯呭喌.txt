@@ -1,0 +1,8 @@
+提交数据:
+	/api/get_patient_status.php?hid=xxx&pid=xxx
+		hid = 医院ID
+		pid = 患者ID
+
+结果(json格式)
+	是否就诊=1 or 0
+	就诊时间=unix时间戳

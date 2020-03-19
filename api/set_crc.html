@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>设置授权码</title>
+<meta http-equiv="Content-Type" content="text/html;charset=gb2312">
+<style>
+* {font-family:"Tahoma", "微软雅黑"; font-size:13px; }
+</style>
+
+<script language="javascript">
+String.prototype.trim = function() {
+	return this.replace(/(^\s*)|(\s*$)/g, "");
+}
+
+function set_cookie(name, value, time) {
+	var date = new Date();
+	date.setTime(date.getTime() + time * 1000);
+	window.document.cookie = name + "=" + escape(value) + ";expires=" + date.toUTCString();
+}
+
+function get_cookie(name) {
+	var result = "";
+	var array = window.document.cookie.split(";");
+	var length = array.length;
+	for (var i = 0; i < length; i++) {
+		var nv = array[i].split("=");
+		if (nv[0].trim() == name) {
+			result = unescape(nv[1]);
+		}
+	}
+	return result;
+}
+
+function delete_cookie(name) {
+	window.document.cookie = name + "=;expires=" + (new Date(0)).toUTCString();
+}
+
+function set_crc() {
+	var s = document.getElementById("crc").value;
+	if (s == '') {
+		alert("请输入授权码！                ");
+		return false;
+	}
+	set_cookie("crc", s, 999999999);
+	if (get_cookie("crc") == s) {
+		alert("设置成功！                      ");
+		alert("当前授权码为：“"+get_cookie("crc")+"”");
+	} else {
+		alert("设置出现异常，请换浏览器试试！  ");
+	}
+}
+</script>
+</head>
+
+<body>
+
+请输入授权码：<input id="crc" value="" size="40">&nbsp;<button onclick="set_crc(); return false;">确认</button>
+
+</body>
+</html>

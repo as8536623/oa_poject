@@ -1,0 +1,45 @@
+接口地址
+	/api/add_patient.php
+
+以下所需字段用POST方法发送
+
+	hospital_id  医院ID 来自dict_hospital.php
+
+	必须字段
+	name  姓名
+	sex   性别=男 或 女
+	age   年龄=25
+	tel   手机号=13888889999
+	qq    QQ=100010001
+	content  咨询内容=文字内容(长度不要太大)
+	disease_id  疾病ID=ID （字典）
+	media_from   媒体来源=文字（字典）
+	zhuanjia_num   预约专家号=字符串
+	is_local    是否本市病人=1 或 0
+	area        病人来自哪里(地区)
+	order_date  预约时间=Unix时间戳
+	memo    备注内容=文本
+
+
+
+以下可选字段
+	-from_account   所属统计账户=PC|手机|微信|400|其它
+	-depart    就诊科室=ID （字典）
+	-from_soft   预约软件=商务通|QQ|其它
+
+
+
+系统自动处理的(无需提交部分)
+	tel_location
+	status
+	part_id
+	addtime
+	author
+
+
+
+接口返回值 json
+	pid=插入的患者ID
+
+
+
